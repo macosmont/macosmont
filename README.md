@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Marcos 👋
 
 - 📫 Estudo Análise e Desenvolvimento de Sistema na Universidade Católica de Brasília
-- 😄 Meus pronomes: ele/dele
+
 
 <div>
 <a href="https://github.com/macosmont"
